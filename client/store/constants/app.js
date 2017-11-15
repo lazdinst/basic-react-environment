@@ -1,0 +1,1 @@
+export const BLANK_ACTION = 'BLANK_ACTION';
